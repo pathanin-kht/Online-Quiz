@@ -23,7 +23,7 @@ This quiz is a personal project created by the owner as part of their practice i
   - B) goes
   - C) going
   - Correct Answer: B) goes
-  - 
+    
 ## License
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
