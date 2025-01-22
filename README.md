@@ -17,12 +17,13 @@ This quiz is a personal project created by the owner as part of their practice i
 4. The result will display your score and the correct answers.
 
 ## Example
-- Question: "She ____ to school every day."
+- Question: "We ______ English every day."
 - Options:
-  - A) go
-  - B) goes
-  - C) going
-  - Correct Answer: B) goes
+  - A) study
+  - B) studies
+  - C) studying
+  - D) studied
+  - Correct Answer: A) study
     
 ## License
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
